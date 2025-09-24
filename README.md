@@ -8,16 +8,20 @@
   Curious mind • 4th-year Computer Engineering student (UBA) • Always learning by building
 </p>
 
+<!-- Quick links / Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-balella84ab62239">LinkedIn</a> ·
-  <a href="https://juanbalella20.github.io/Portfolio-Juan-Balella/">Portfolio</a> ·
-  <a href="mailto:02balella@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/juan-balella84ab62239">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://juanbalella20.github.io/Portfolio-Juan-Balella/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-0A0A0A?logo=vercel&logoColor=white">
+  </a>
+  <a href="mailto:02balella@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-DB4437?logo=gmail&logoColor=white">
+  </a>
+  <img alt="Views" src="https://komarev.com/ghpvc/?username=juanbalella20&style=flat&label=Profile+Views">
 </p>
 
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=juanbalella20&style=flat&label=Profile+Views" />
-  <img alt="Follow" src="https://img.shields.io/github/followers/juanbalella20?style=flat&label=Followers" />
-</p>
 
 ---
 
