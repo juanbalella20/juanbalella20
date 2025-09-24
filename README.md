@@ -1,6 +1,10 @@
 <!-- Intro -->
 <h1 align="center">Hi, I'm Juan Balella 👋</h1>
 <p align="center">
+  <img src="bannerSanlorenzo.webp" alt="Banner" width="800"/>
+</p>
+
+<p align="center">
   Curious mind • 4th-year Computer Engineering student (UBA) • Always learning by building
 </p>
 
